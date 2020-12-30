@@ -1,5 +1,5 @@
-# LPG-21 Programs
-Programs for the LPG-21 vintage computer (read from paper tape)
+# LGP-21 Programs
+Programs for the LGP-21 vintage computer (read from paper tape)
 
 ## Einleseroutine für Papertapes
 
@@ -49,7 +49,7 @@ später die .raw Dateien immer noch wandeln.
 
 ## Übersicht der Programme
 
-Siehe [Uebersicht LPG21_Papertapes](Uebersicht LPG21_Papertapes.md).
+Siehe [Uebersicht_LGP21_Papertapes](Uebersicht_LGP21_Papertapes.md).
 
 ## Siehe auch
 
